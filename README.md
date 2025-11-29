@@ -1,7 +1,6 @@
 # Prompt to Gazebo Sandbox
 
 <p align="left">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
   <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" alt="Next.js 15" />
   <img src="https://img.shields.io/badge/ROS2-Humble-blue" alt="ROS2 Humble" />
   <img src="https://img.shields.io/badge/MoveIt2-2.0-brightgreen" alt="MoveIt2 2.0" />
